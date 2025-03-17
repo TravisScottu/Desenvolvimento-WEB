@@ -16,7 +16,7 @@ function verificarNumeroPrimo(n) {
             return false;
         }
     }
-
+    
     return true;
 }
 console.log(verificarNumeroPrimo(0));
